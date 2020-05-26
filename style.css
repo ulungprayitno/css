@@ -1,0 +1,114 @@
+tr.p-rowgroup-header {
+    text-align: center;
+}
+
+.layout-wrapper .layout-topbar {
+    background: #5A0BEC;
+    background: linear-gradient(to right, #5A0BEC 0%, #4D5E48 100%);
+}
+
+body .p-button {
+    color: #ffffff;
+    background-color: #5A0BEC;
+    border: 1px solid #5A0BEC;
+}
+
+body .p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+    background-color: #5A0BEC;
+}
+
+body .p-panel .p-panel-titlebar {
+    background-color: #dbebd0;
+}
+
+body .p-toolbar {
+    background-color: #dbebd0;
+}
+
+body .information {
+    background-color: #5A0BEC;
+    border: 1px solid #5A0BEC;
+}
+
+body .p-dialog .p-dialog-titlebar {
+    background-color: #5A0BEC;
+}
+
+body .p-dialog .p-dialog-titlebar .p-dialog-title {
+    color: white;
+}
+
+body .fieldSetForum {
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    color: #333333;
+}
+
+body .informationKb {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+body .p-paginator {
+    background-color: #dbebd0;
+}
+
+body .p-datatable .p-datatable-thead > tr > th {
+    background-color: #dbebd0;
+}
+
+.layout-wrapper .layout-sidebar.layout-sidebar-dark ul li.active-menuitem > a {
+    color: #56893F;
+}
+.layout-wrapper .layout-sidebar.layout-sidebar-dark ul li a:hover {
+    color: #56893F;
+}
+.layout-wrapper .layout-sidebar.layout-sidebar-dark .profile > button:hover {
+    color: #56893F;
+}
+.layout-wrapper .layout-sidebar.layout-sidebar-dark .profile > ul li button:hover {
+    color: #56893F;
+}
+
+.layout-wrapper .layout-sidebar.layout-sidebar-dark ul li a.active-route {
+    color: #56893F;
+}
+
+.p-card-body {
+    padding: 2em;
+}
+
+.layout-wrapper .layout-sidebar.layout-sidebar-dark {
+    background: #222722;
+    background: linear-gradient(to bottom, #222722 0%, #222722 100%);
+}
+
+body .deni-react-treeview-container {
+    font-family: tahoma,arial;
+    font-size: 12px;
+    padding: 0;
+    overflow-x: auto;
+    overflow-y: auto;
+    border: solid 1px;
+    border-color: #a5c7e3;
+    width: 100%;
+    height: 100%;
+    background-color: #fafafa;
+}
+
+body .deni-react-treeview-item-container {
+    align-items: center;
+    display: flex;
+    height: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.overlayNotif {
+    z-index: 1000;
+    top: 39.7969px;
+    // transform: scaleX(-1);
+    left: -10px !important;
+    opacity: 1.044;
+}
